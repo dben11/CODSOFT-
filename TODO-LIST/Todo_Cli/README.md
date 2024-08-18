@@ -17,64 +17,64 @@
     Todo-List CLI Application - Help Guide
 =======================================
 
-Available Commands:
+# Available Commands:
 -------------------
 
-1. create list
-   - Creates a new task list.
-   - Usage: `create list`
-   - Example: `create list`
-   - The user will be prompted to enter a name for the new list.
+      1. create list
+      - Creates a new task list.
+      - Usage: `create list`
+      - Example: `create list`
+      - The user will be prompted to enter a name for the new list.
 
-2. select list
-   - Selects an existing task list for adding, viewing, or modifying tasks.
-   - Usage: `select list`
-   - Example: `select list`
-   - The user will be prompted to choose from available lists.
+      2. select list
+      - Selects an existing task list for adding, viewing, or modifying tasks.
+      - Usage: `select list`
+      - Example: `select list`
+      - The user will be prompted to choose from available lists.
 
-3. delete list
-   - Deletes an existing task list and all its associated tasks.
-   - Usage: `delete list`
-   - Example: `delete list`
-   - The user will be prompted to enter the name of the list to delete.
+      3. delete list
+      - Deletes an existing task list and all its associated tasks.
+      - Usage: `delete list`
+      - Example: `delete list`
+      - The user will be prompted to enter the name of the list to delete.
 
-4. add task
-   - Adds a new task to the selected task list.
-   - Usage: `add task`
-   - Example: `add task`
-   - The user will be prompted to enter a description for the task.
+      4. add task
+      - Adds a new task to the selected task list.
+      - Usage: `add task`
+      - Example: `add task`
+      - The user will be prompted to enter a description for the task.
 
-5. view task
-   - Views all tasks in the selected task list.
-   - Usage: `view task`
-   - Example: `view task`
+      5. view task
+      - Views all tasks in the selected task list.
+      - Usage: `view task`
+      - Example: `view task`
 
-6. delete task <task_id>
-   - Deletes a specific task from the selected task list.
-   - Usage: `delete task <task_id>`
-   - Example: `delete task 1`
+      6. delete task <task_id>
+      - Deletes a specific task from the selected task list.
+      - Usage: `delete task <task_id>`
+      - Example: `delete task 1`
 
-7. update task <task_id>
-   - Updates the description of a specific task in the selected task list.
-   - Usage: `update task <task_id>`
-   - Example: `update task 1`
+      7. update task <task_id>
+      - Updates the description of a specific task in the selected task list.
+      - Usage: `update task <task_id>`
+      - Example: `update task 1`
 
-8. complete task <task_id>
-   - Marks a specific task in the selected task list as complete.
-   - Usage: `complete task <task_id>`
-   - Example: `complete task 1`
+      8. complete task <task_id>
+      - Marks a specific task in the selected task list as complete.
+      - Usage: `complete task <task_id>`
+      - Example: `complete task 1`
 
-9. help
-   - Displays this help guide.
-   - Usage: `help`
+      9. help
+      - Displays this help guide.
+      - Usage: `help`
 
-10. clear
-    - Clears the screen.
-    - Usage: `clear`
+      10. clear
+         - Clears the screen.
+         - Usage: `clear`
 
-11. quit
-    - Exits the application.
-    - Usage: `quit`
+      11. quit
+         - Exits the application.
+         - Usage: `quit`
 
 
 # 4. Implementation Details
