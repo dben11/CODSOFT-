@@ -1,6 +1,6 @@
-# A CLI Password Generator
+# A CLI Password Generator Application
 
-        This ppython project generates random passwords base on the user preference for length of character type. This is to generate a stron passwords based on user-defined criteria.
+        This ppython project generates random passwords base on the user preference for length of character type. This is to generate a strong passwords based on user-defined criteria.
 
 ## Project Structure
         config/settings.py: Defualt settings for password gen

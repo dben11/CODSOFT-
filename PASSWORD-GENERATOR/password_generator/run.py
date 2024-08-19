@@ -2,6 +2,7 @@ from src.generator import generate_password
 
 def get_valid_integer(prompt):
     """Prompt user for valid interger input"""
+    print("Welcom to our Password gen engine Application!! ")
     
     while True:
         try:
